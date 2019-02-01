@@ -6,7 +6,7 @@
 	<scm>
 		<url>git@github.com:pawelraczy/maven-release-plugin-example</url>
 		<connection>scm:git:git@github.com:pawelraczy/maven-release-plugin-example.git</connection>
-      	<tag>26.1-DEVELOP-1-SNAPSHOT</tag>
+      	<tag>26.2-DEVELOP-2-SNAPSHOT</tag>
   </scm>
 	
 	<!-- Repository Information -->
