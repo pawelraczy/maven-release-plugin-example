@@ -4,8 +4,8 @@
 	<artifactId>maven-release-plugin-example</artifactId>
 	<version>0.2-SNAPSHOT</version>
 	<scm>
-		<url>https://github.com/pawelraczy/maven-release-plugin-example</url>
-		<connection>scm:git:https://github.com/pawelraczy/maven-release-plugin-example.git</connection>
+		<url>git@github.com:pawelraczy/maven-release-plugin-example</url>
+		<connection>scm:git:git@github.com:pawelraczy/maven-release-plugin-example.git</connection>
       <tag>HEAD</tag>
   </scm>
 	
